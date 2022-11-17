@@ -17,7 +17,7 @@ namespace myNameSpace
             if (input >= 100)
             {
                 input += 2;
-                output = Math.Round(input / 100d, 0) * 100 - 1;
+                output = (input + 50) / 100 * 100 - 1;
             }
 
             Convert.ToInt32(output);
