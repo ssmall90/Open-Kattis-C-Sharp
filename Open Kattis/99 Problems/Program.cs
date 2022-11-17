@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace myNameSpace
 {
@@ -6,8 +6,8 @@ namespace myNameSpace
     {
         static void Main()
         {
-            int output = 0;
-            int input = double.Parse(Console.ReadLine());
+            double output = 0;
+            int input = int.Parse(Console.ReadLine());
 
             if (input < 100)
             {
@@ -16,13 +16,18 @@ namespace myNameSpace
 
             if (input >= 100)
             {
-               output = Math.Round(input / 100d, 0) * 100;
+                input += 2;
+                output = Math.Round(input / 100d, 0) * 100 - 1;
             }
 
+            Convert.ToInt32(output);
+
             Console.WriteLine(output);
+
+            input = 0;
 
 
         }
     }
-  
+
 }
