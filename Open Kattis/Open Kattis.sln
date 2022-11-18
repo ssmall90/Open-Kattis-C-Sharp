@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum", "Two Sum\Two Sum.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Last Problem", "The Last Problem\The Last Problem.csproj", "{A31AE916-51DD-47F4-9DE1-69120467FC2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle Area", "Triangle Area\Triangle Area.csproj", "{F9179E34-A7C5-44B5-ACC8-24D8A7F9F659}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A31AE916-51DD-47F4-9DE1-69120467FC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A31AE916-51DD-47F4-9DE1-69120467FC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A31AE916-51DD-47F4-9DE1-69120467FC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9179E34-A7C5-44B5-ACC8-24D8A7F9F659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9179E34-A7C5-44B5-ACC8-24D8A7F9F659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9179E34-A7C5-44B5-ACC8-24D8A7F9F659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9179E34-A7C5-44B5-ACC8-24D8A7F9F659}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
