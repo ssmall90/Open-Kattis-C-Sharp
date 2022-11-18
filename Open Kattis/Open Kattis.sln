@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd Echo", "Odd Echo\Odd Ec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Which Is Greater", "Which Is Greater\Which Is Greater.csproj", "{083AB570-BAF4-44D3-916F-D4728221B149}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum", "Two Sum\Two Sum.csproj", "{5D185594-8DAA-451D-98A7-C91891463825}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{083AB570-BAF4-44D3-916F-D4728221B149}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{083AB570-BAF4-44D3-916F-D4728221B149}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{083AB570-BAF4-44D3-916F-D4728221B149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D185594-8DAA-451D-98A7-C91891463825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D185594-8DAA-451D-98A7-C91891463825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D185594-8DAA-451D-98A7-C91891463825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D185594-8DAA-451D-98A7-C91891463825}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
