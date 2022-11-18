@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jack-O'-Lantern Juxtapositi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echo Echo Echo", "Echo Echo Echo\Echo Echo Echo.csproj", "{0CC26943-96A5-45A8-8356-6C0389B03100}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Betting", "Betting\Betting.csproj", "{3C27E676-A3B9-4A71-9DCF-314198773643}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0CC26943-96A5-45A8-8356-6C0389B03100}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CC26943-96A5-45A8-8356-6C0389B03100}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CC26943-96A5-45A8-8356-6C0389B03100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C27E676-A3B9-4A71-9DCF-314198773643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C27E676-A3B9-4A71-9DCF-314198773643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C27E676-A3B9-4A71-9DCF-314198773643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C27E676-A3B9-4A71-9DCF-314198773643}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
