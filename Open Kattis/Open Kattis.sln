@@ -9,23 +9,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "99 Problems", "99 Problems\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R2", "R2\R2.csproj", "{94D4FF7F-5A5F-41F5-9220-A2B66F984092}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jack-O'-Lantern Juxtaposition", "Jack-O'-Lantern Juxtaposition\Jack-O'-Lantern Juxtaposition.csproj", "{75D1FF2A-BCFD-45FB-9450-1F884A4FC0C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jack-O'-Lantern Juxtaposition", "Jack-O'-Lantern Juxtaposition\Jack-O'-Lantern Juxtaposition.csproj", "{75D1FF2A-BCFD-45FB-9450-1F884A4FC0C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echo Echo Echo", "Echo Echo Echo\Echo Echo Echo.csproj", "{0CC26943-96A5-45A8-8356-6C0389B03100}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Echo Echo Echo", "Echo Echo Echo\Echo Echo Echo.csproj", "{0CC26943-96A5-45A8-8356-6C0389B03100}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Betting", "Betting\Betting.csproj", "{3C27E676-A3B9-4A71-9DCF-314198773643}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Betting", "Betting\Betting.csproj", "{3C27E676-A3B9-4A71-9DCF-314198773643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autori", "Autori\Autori.csproj", "{405678C4-D57C-4FFC-9116-C47D1F096EC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autori", "Autori\Autori.csproj", "{405678C4-D57C-4FFC-9116-C47D1F096EC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd Echo", "Odd Echo\Odd Echo.csproj", "{C9B9E85E-0DA3-4CE8-BA0A-BED9C15C3C0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odd Echo", "Odd Echo\Odd Echo.csproj", "{C9B9E85E-0DA3-4CE8-BA0A-BED9C15C3C0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Which Is Greater", "Which Is Greater\Which Is Greater.csproj", "{083AB570-BAF4-44D3-916F-D4728221B149}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Which Is Greater", "Which Is Greater\Which Is Greater.csproj", "{083AB570-BAF4-44D3-916F-D4728221B149}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum", "Two Sum\Two Sum.csproj", "{5D185594-8DAA-451D-98A7-C91891463825}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two Sum", "Two Sum\Two Sum.csproj", "{5D185594-8DAA-451D-98A7-C91891463825}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Last Problem", "The Last Problem\The Last Problem.csproj", "{A31AE916-51DD-47F4-9DE1-69120467FC2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Last Problem", "The Last Problem\The Last Problem.csproj", "{A31AE916-51DD-47F4-9DE1-69120467FC2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle Area", "Triangle Area\Triangle Area.csproj", "{F9179E34-A7C5-44B5-ACC8-24D8A7F9F659}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle Area", "Triangle Area\Triangle Area.csproj", "{F9179E34-A7C5-44B5-ACC8-24D8A7F9F659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarifa", "Tarifa\Tarifa.csproj", "{055E6C22-A6DC-4919-8DB9-2704428D5B23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{F9179E34-A7C5-44B5-ACC8-24D8A7F9F659}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9179E34-A7C5-44B5-ACC8-24D8A7F9F659}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9179E34-A7C5-44B5-ACC8-24D8A7F9F659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055E6C22-A6DC-4919-8DB9-2704428D5B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055E6C22-A6DC-4919-8DB9-2704428D5B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055E6C22-A6DC-4919-8DB9-2704428D5B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055E6C22-A6DC-4919-8DB9-2704428D5B23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
