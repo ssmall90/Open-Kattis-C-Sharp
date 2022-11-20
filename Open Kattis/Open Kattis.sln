@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle Area", "Triangle A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarifa", "Tarifa\Tarifa.csproj", "{055E6C22-A6DC-4919-8DB9-2704428D5B23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take Two Stones", "Take Two Stones\Take Two Stones.csproj", "{DE15BEED-03F8-4EB5-B728-C9F4A3863CBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{055E6C22-A6DC-4919-8DB9-2704428D5B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{055E6C22-A6DC-4919-8DB9-2704428D5B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{055E6C22-A6DC-4919-8DB9-2704428D5B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE15BEED-03F8-4EB5-B728-C9F4A3863CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE15BEED-03F8-4EB5-B728-C9F4A3863CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE15BEED-03F8-4EB5-B728-C9F4A3863CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE15BEED-03F8-4EB5-B728-C9F4A3863CBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
