@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ABC", "ABC\ABC.csproj", "{D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A to B", "A to B\A to B.csproj", "{B39447E3-AC64-4057-9CC7-5FFE05144088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Building Pyramids", "Building Pyramids\Building Pyramids.csproj", "{68650248-451D-423E-BEEA-EB90108E5D0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Building Pyramids", "Building Pyramids\Building Pyramids.csproj", "{68650248-451D-423E-BEEA-EB90108E5D0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort Two Numbers", "Sort Two Numbers\Sort Two Numbers.csproj", "{9B8FD582-784C-468F-85C4-1400D6160A1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{68650248-451D-423E-BEEA-EB90108E5D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68650248-451D-423E-BEEA-EB90108E5D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68650248-451D-423E-BEEA-EB90108E5D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8FD582-784C-468F-85C4-1400D6160A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8FD582-784C-468F-85C4-1400D6160A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8FD582-784C-468F-85C4-1400D6160A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8FD582-784C-468F-85C4-1400D6160A1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
