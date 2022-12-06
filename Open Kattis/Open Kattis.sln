@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort Two Numbers", "Sort Tw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stuck In A Time Loop", "Stuck In A Time Loop\Stuck In A Time Loop.csproj", "{F3ADE91F-85FF-4492-B725-8B09DA904D1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solving For Carrots", "Solving For Carrots\Solving For Carrots.csproj", "{83CFF705-A6CE-4173-95B0-4E7BCD11F45B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{F3ADE91F-85FF-4492-B725-8B09DA904D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3ADE91F-85FF-4492-B725-8B09DA904D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3ADE91F-85FF-4492-B725-8B09DA904D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CFF705-A6CE-4173-95B0-4E7BCD11F45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CFF705-A6CE-4173-95B0-4E7BCD11F45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CFF705-A6CE-4173-95B0-4E7BCD11F45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CFF705-A6CE-4173-95B0-4E7BCD11F45B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
