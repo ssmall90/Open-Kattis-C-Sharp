@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quality-Adjusted Life-Year"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrant Selection", "Quadrant Selection\Quadrant Selection.csproj", "{D48CD1C2-6DF5-4E47-8E96-D24F86F59100}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumbo Javelin", "Jumbo Javelin\Jumbo Javelin.csproj", "{89D1A6AF-1E17-43EE-AFFA-1764A16FB24F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{D48CD1C2-6DF5-4E47-8E96-D24F86F59100}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D48CD1C2-6DF5-4E47-8E96-D24F86F59100}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D48CD1C2-6DF5-4E47-8E96-D24F86F59100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D1A6AF-1E17-43EE-AFFA-1764A16FB24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D1A6AF-1E17-43EE-AFFA-1764A16FB24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D1A6AF-1E17-43EE-AFFA-1764A16FB24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D1A6AF-1E17-43EE-AFFA-1764A16FB24F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
