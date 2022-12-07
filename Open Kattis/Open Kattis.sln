@@ -39,15 +39,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Building Pyramids", "Buildi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort Two Numbers", "Sort Two Numbers\Sort Two Numbers.csproj", "{9B8FD582-784C-468F-85C4-1400D6160A1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stuck In A Time Loop", "Stuck In A Time Loop\Stuck In A Time Loop.csproj", "{F3ADE91F-85FF-4492-B725-8B09DA904D1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stuck In A Time Loop", "Stuck In A Time Loop\Stuck In A Time Loop.csproj", "{F3ADE91F-85FF-4492-B725-8B09DA904D1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solving For Carrots", "Solving For Carrots\Solving For Carrots.csproj", "{83CFF705-A6CE-4173-95B0-4E7BCD11F45B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solving For Carrots", "Solving For Carrots\Solving For Carrots.csproj", "{83CFF705-A6CE-4173-95B0-4E7BCD11F45B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quality-Adjusted Life-Year", "Quality-Adjusted Life-Year\Quality-Adjusted Life-Year.csproj", "{6780AB6F-13D1-41CE-B4ED-B6372750E683}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quality-Adjusted Life-Year", "Quality-Adjusted Life-Year\Quality-Adjusted Life-Year.csproj", "{6780AB6F-13D1-41CE-B4ED-B6372750E683}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrant Selection", "Quadrant Selection\Quadrant Selection.csproj", "{D48CD1C2-6DF5-4E47-8E96-D24F86F59100}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quadrant Selection", "Quadrant Selection\Quadrant Selection.csproj", "{D48CD1C2-6DF5-4E47-8E96-D24F86F59100}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumbo Javelin", "Jumbo Javelin\Jumbo Javelin.csproj", "{89D1A6AF-1E17-43EE-AFFA-1764A16FB24F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jumbo Javelin", "Jumbo Javelin\Jumbo Javelin.csproj", "{89D1A6AF-1E17-43EE-AFFA-1764A16FB24F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knight Packing", "Knight Packing\Knight Packing.csproj", "{EBEA7890-969E-4A5F-86FA-FD7EF1DF8A93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{89D1A6AF-1E17-43EE-AFFA-1764A16FB24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89D1A6AF-1E17-43EE-AFFA-1764A16FB24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89D1A6AF-1E17-43EE-AFFA-1764A16FB24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBEA7890-969E-4A5F-86FA-FD7EF1DF8A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEA7890-969E-4A5F-86FA-FD7EF1DF8A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEA7890-969E-4A5F-86FA-FD7EF1DF8A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEA7890-969E-4A5F-86FA-FD7EF1DF8A93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
