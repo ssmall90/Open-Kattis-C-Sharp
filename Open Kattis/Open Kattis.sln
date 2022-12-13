@@ -59,11 +59,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FYI", "FYI\FYI.csproj", "{2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Train Passengers", "Train Passengers\Train Passengers.csproj", "{519EB40F-9960-4358-A201-95484721C1B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pot", "Pot\Pot.csproj", "{DB6B5DF3-29C8-4501-A1AE-1CBC748A480E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pot", "Pot\Pot.csproj", "{DB6B5DF3-29C8-4501-A1AE-1CBC748A480E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digit Swap", "Digit Swap\Digit Swap.csproj", "{5BE3FFC4-723E-4EA1-9116-DDD55C6E4CD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Digit Swap", "Digit Swap\Digit Swap.csproj", "{5BE3FFC4-723E-4EA1-9116-DDD55C6E4CD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bela", "Bela\Bela.csproj", "{E67E66BC-C24F-40ED-8898-51CE104A94CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bela", "Bela\Bela.csproj", "{E67E66BC-C24F-40ED-8898-51CE104A94CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "Stopwatch\Stopwatch.csproj", "{A1877176-1404-4E72-B705-9A9B4B4A7D79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{E67E66BC-C24F-40ED-8898-51CE104A94CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E67E66BC-C24F-40ED-8898-51CE104A94CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E67E66BC-C24F-40ED-8898-51CE104A94CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1877176-1404-4E72-B705-9A9B4B4A7D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1877176-1404-4E72-B705-9A9B4B4A7D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1877176-1404-4E72-B705-9A9B4B4A7D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1877176-1404-4E72-B705-9A9B4B4A7D79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
