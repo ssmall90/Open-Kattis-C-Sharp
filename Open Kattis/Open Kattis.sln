@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pot", "Pot\Pot.csproj", "{D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digit Swap", "Digit Swap\Digit Swap.csproj", "{5BE3FFC4-723E-4EA1-9116-DDD55C6E4CD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bela", "Bela\Bela.csproj", "{E67E66BC-C24F-40ED-8898-51CE104A94CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{5BE3FFC4-723E-4EA1-9116-DDD55C6E4CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BE3FFC4-723E-4EA1-9116-DDD55C6E4CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BE3FFC4-723E-4EA1-9116-DDD55C6E4CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67E66BC-C24F-40ED-8898-51CE104A94CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67E66BC-C24F-40ED-8898-51CE104A94CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67E66BC-C24F-40ED-8898-51CE104A94CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67E66BC-C24F-40ED-8898-51CE104A94CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
