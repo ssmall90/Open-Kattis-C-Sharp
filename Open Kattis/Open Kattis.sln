@@ -65,9 +65,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Digit Swap", "Digit Swap\Di
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bela", "Bela\Bela.csproj", "{E67E66BC-C24F-40ED-8898-51CE104A94CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "Stopwatch\Stopwatch.csproj", "{A1877176-1404-4E72-B705-9A9B4B4A7D79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stopwatch", "Stopwatch\Stopwatch.csproj", "{A1877176-1404-4E72-B705-9A9B4B4A7D79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sibice", "Sibice\Sibice.csproj", "{1F76B2F8-CFFB-409C-AE48-F3D7D796274A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sibice", "Sibice\Sibice.csproj", "{1F76B2F8-CFFB-409C-AE48-F3D7D796274A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shattered Cake", "Shattered Cake\Shattered Cake.csproj", "{E5067714-4092-45EC-BF0C-7E7F5168B67E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{1F76B2F8-CFFB-409C-AE48-F3D7D796274A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F76B2F8-CFFB-409C-AE48-F3D7D796274A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F76B2F8-CFFB-409C-AE48-F3D7D796274A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5067714-4092-45EC-BF0C-7E7F5168B67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5067714-4092-45EC-BF0C-7E7F5168B67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5067714-4092-45EC-BF0C-7E7F5168B67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5067714-4092-45EC-BF0C-7E7F5168B67E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
