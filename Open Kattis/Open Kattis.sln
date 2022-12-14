@@ -69,7 +69,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stopwatch", "Stopwatch\Stop
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sibice", "Sibice\Sibice.csproj", "{1F76B2F8-CFFB-409C-AE48-F3D7D796274A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shattered Cake", "Shattered Cake\Shattered Cake.csproj", "{E5067714-4092-45EC-BF0C-7E7F5168B67E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shattered Cake", "Shattered Cake\Shattered Cake.csproj", "{E5067714-4092-45EC-BF0C-7E7F5168B67E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rating Problems", "Rating Problems\Rating Problems.csproj", "{E5DC95D8-6436-4CD8-8FCB-36658894BE13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{E5067714-4092-45EC-BF0C-7E7F5168B67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5067714-4092-45EC-BF0C-7E7F5168B67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5067714-4092-45EC-BF0C-7E7F5168B67E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5DC95D8-6436-4CD8-8FCB-36658894BE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DC95D8-6436-4CD8-8FCB-36658894BE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DC95D8-6436-4CD8-8FCB-36658894BE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DC95D8-6436-4CD8-8FCB-36658894BE13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
