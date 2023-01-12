@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finding An A", "Finding An 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-Sum", "N-Sum\N-Sum.csproj", "{80A040BC-E929-4E17-BC88-114906142598}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electrical Outlets", "Electrical Outlets\Electrical Outlets.csproj", "{3C0FF08E-90E6-4391-AEC5-B2632C0B16C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{80A040BC-E929-4E17-BC88-114906142598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80A040BC-E929-4E17-BC88-114906142598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80A040BC-E929-4E17-BC88-114906142598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C0FF08E-90E6-4391-AEC5-B2632C0B16C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0FF08E-90E6-4391-AEC5-B2632C0B16C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0FF08E-90E6-4391-AEC5-B2632C0B16C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0FF08E-90E6-4391-AEC5-B2632C0B16C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
