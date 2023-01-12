@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cold-puter Science", "Cold-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finding An A", "Finding An A\Finding An A.csproj", "{382B8E25-917E-48DE-A992-72C9A3341E8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-Sum", "N-Sum\N-Sum.csproj", "{80A040BC-E929-4E17-BC88-114906142598}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{382B8E25-917E-48DE-A992-72C9A3341E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{382B8E25-917E-48DE-A992-72C9A3341E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{382B8E25-917E-48DE-A992-72C9A3341E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A040BC-E929-4E17-BC88-114906142598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A040BC-E929-4E17-BC88-114906142598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A040BC-E929-4E17-BC88-114906142598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A040BC-E929-4E17-BC88-114906142598}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
