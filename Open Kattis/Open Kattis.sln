@@ -75,6 +75,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rating Problems", "Rating P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cold-puter Science", "Cold-puter Science\Cold-puter Science.csproj", "{003557A0-764D-47E4-8FEE-CDB4A1CA17F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finding An A", "Finding An A\Finding An A.csproj", "{382B8E25-917E-48DE-A992-72C9A3341E8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{003557A0-764D-47E4-8FEE-CDB4A1CA17F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{003557A0-764D-47E4-8FEE-CDB4A1CA17F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{003557A0-764D-47E4-8FEE-CDB4A1CA17F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382B8E25-917E-48DE-A992-72C9A3341E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382B8E25-917E-48DE-A992-72C9A3341E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382B8E25-917E-48DE-A992-72C9A3341E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382B8E25-917E-48DE-A992-72C9A3341E8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
