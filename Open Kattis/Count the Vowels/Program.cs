@@ -11,7 +11,7 @@ namespace myNameSpace
             int count = 0;
 
             for (int i = 0; i < input.Length; i++)
-            { }
+            { 
                 
                 if (vowels.Contains(input[i]))
                 {
