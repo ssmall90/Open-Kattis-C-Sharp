@@ -81,9 +81,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N-Sum", "N-Sum\N-Sum.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Electrical Outlets", "Electrical Outlets\Electrical Outlets.csproj", "{3C0FF08E-90E6-4391-AEC5-B2632C0B16C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metronome", "Metronome\Metronome.csproj", "{338B565E-002D-495E-A5A1-7DF3F4924143}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metronome", "Metronome\Metronome.csproj", "{338B565E-002D-495E-A5A1-7DF3F4924143}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count the Vowels", "Count the Vowels\Count the Vowels.csproj", "{C766C898-5FB5-4AEE-8AAE-A32807EA26A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count the Vowels", "Count the Vowels\Count the Vowels.csproj", "{C766C898-5FB5-4AEE-8AAE-A32807EA26A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Field Trip", "Class Field Trip\Class Field Trip.csproj", "{AD7BC2D6-C685-4FF6-838D-FB43DED04F14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +257,10 @@ Global
 		{C766C898-5FB5-4AEE-8AAE-A32807EA26A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C766C898-5FB5-4AEE-8AAE-A32807EA26A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C766C898-5FB5-4AEE-8AAE-A32807EA26A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7BC2D6-C685-4FF6-838D-FB43DED04F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7BC2D6-C685-4FF6-838D-FB43DED04F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7BC2D6-C685-4FF6-838D-FB43DED04F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7BC2D6-C685-4FF6-838D-FB43DED04F14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
