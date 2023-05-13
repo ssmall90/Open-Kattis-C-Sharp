@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grassseed", "Grassseed\Gras
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{64CF9599-9E3B-456C-BA5C-F90735CB60D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Real Challenge", "A Real Challenge\A Real Challenge.csproj", "{F5CB7FEE-EE7F-4991-A2FB-7F1D6FEA2255}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{64CF9599-9E3B-456C-BA5C-F90735CB60D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64CF9599-9E3B-456C-BA5C-F90735CB60D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64CF9599-9E3B-456C-BA5C-F90735CB60D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CB7FEE-EE7F-4991-A2FB-7F1D6FEA2255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CB7FEE-EE7F-4991-A2FB-7F1D6FEA2255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CB7FEE-EE7F-4991-A2FB-7F1D6FEA2255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CB7FEE-EE7F-4991-A2FB-7F1D6FEA2255}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
