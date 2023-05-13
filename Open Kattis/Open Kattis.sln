@@ -89,6 +89,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class Field Trip", "Class F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grassseed", "Grassseed\Grassseed.csproj", "{485C8469-D67B-439A-83BD-8B9F262741FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{64CF9599-9E3B-456C-BA5C-F90735CB60D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{485C8469-D67B-439A-83BD-8B9F262741FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{485C8469-D67B-439A-83BD-8B9F262741FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{485C8469-D67B-439A-83BD-8B9F262741FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64CF9599-9E3B-456C-BA5C-F90735CB60D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CF9599-9E3B-456C-BA5C-F90735CB60D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CF9599-9E3B-456C-BA5C-F90735CB60D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CF9599-9E3B-456C-BA5C-F90735CB60D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
