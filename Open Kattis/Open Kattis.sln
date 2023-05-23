@@ -113,6 +113,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spavanac", "Spavanac\Spavan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokechat", "Pokechat\Pokechat.csproj", "{7307871D-C35A-4FB0-B60B-FCCA0D22FBE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disc District", "Disc District\Disc District.csproj", "{F0CA920D-F984-4279-8DEE-4D8875A1ED98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -339,6 +341,10 @@ Global
 		{7307871D-C35A-4FB0-B60B-FCCA0D22FBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7307871D-C35A-4FB0-B60B-FCCA0D22FBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7307871D-C35A-4FB0-B60B-FCCA0D22FBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0CA920D-F984-4279-8DEE-4D8875A1ED98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CA920D-F984-4279-8DEE-4D8875A1ED98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CA920D-F984-4279-8DEE-4D8875A1ED98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CA920D-F984-4279-8DEE-4D8875A1ED98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
