@@ -109,6 +109,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum Squared Digits Function
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hissing Microphone", "Hissing Microphone\Hissing Microphone.csproj", "{B9583A0A-0102-4EC9-B082-B80C55DEF046}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spavanac", "Spavanac\Spavanac.csproj", "{0BA1D6E1-0BB6-4519-A036-D31CA472CAC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +329,10 @@ Global
 		{B9583A0A-0102-4EC9-B082-B80C55DEF046}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9583A0A-0102-4EC9-B082-B80C55DEF046}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9583A0A-0102-4EC9-B082-B80C55DEF046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA1D6E1-0BB6-4519-A036-D31CA472CAC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA1D6E1-0BB6-4519-A036-D31CA472CAC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA1D6E1-0BB6-4519-A036-D31CA472CAC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA1D6E1-0BB6-4519-A036-D31CA472CAC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
