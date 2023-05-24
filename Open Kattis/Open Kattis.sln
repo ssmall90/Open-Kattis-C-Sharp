@@ -117,6 +117,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Disc District", "Disc Distr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptographer's Conundrum", "Cryptographer's Conundrum\Cryptographer's Conundrum.csproj", "{70863013-B516-4B78-9902-827CF3885ED7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planina", "Planina\Planina.csproj", "{394625E2-7110-4BDF-BAA2-2C4F13445DC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -351,6 +353,10 @@ Global
 		{70863013-B516-4B78-9902-827CF3885ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70863013-B516-4B78-9902-827CF3885ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70863013-B516-4B78-9902-827CF3885ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{394625E2-7110-4BDF-BAA2-2C4F13445DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394625E2-7110-4BDF-BAA2-2C4F13445DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394625E2-7110-4BDF-BAA2-2C4F13445DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394625E2-7110-4BDF-BAA2-2C4F13445DC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
