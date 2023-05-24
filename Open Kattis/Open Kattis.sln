@@ -107,13 +107,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trik", "Trik\Trik.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum Squared Digits Function", "Sum Squared Digits Function\Sum Squared Digits Function.csproj", "{B336706B-0EE6-40A5-A504-8DC4A27F0310}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hissing Microphone", "Hissing Microphone\Hissing Microphone.csproj", "{B9583A0A-0102-4EC9-B082-B80C55DEF046}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hissing Microphone", "Hissing Microphone\Hissing Microphone.csproj", "{B9583A0A-0102-4EC9-B082-B80C55DEF046}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spavanac", "Spavanac\Spavanac.csproj", "{0BA1D6E1-0BB6-4519-A036-D31CA472CAC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spavanac", "Spavanac\Spavanac.csproj", "{0BA1D6E1-0BB6-4519-A036-D31CA472CAC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokechat", "Pokechat\Pokechat.csproj", "{7307871D-C35A-4FB0-B60B-FCCA0D22FBE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pokechat", "Pokechat\Pokechat.csproj", "{7307871D-C35A-4FB0-B60B-FCCA0D22FBE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disc District", "Disc District\Disc District.csproj", "{F0CA920D-F984-4279-8DEE-4D8875A1ED98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Disc District", "Disc District\Disc District.csproj", "{F0CA920D-F984-4279-8DEE-4D8875A1ED98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptographer's Conundrum", "Cryptographer's Conundrum\Cryptographer's Conundrum.csproj", "{70863013-B516-4B78-9902-827CF3885ED7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -345,6 +347,10 @@ Global
 		{F0CA920D-F984-4279-8DEE-4D8875A1ED98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0CA920D-F984-4279-8DEE-4D8875A1ED98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0CA920D-F984-4279-8DEE-4D8875A1ED98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70863013-B516-4B78-9902-827CF3885ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70863013-B516-4B78-9902-827CF3885ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70863013-B516-4B78-9902-827CF3885ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70863013-B516-4B78-9902-827CF3885ED7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
