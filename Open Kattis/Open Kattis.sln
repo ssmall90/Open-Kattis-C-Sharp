@@ -115,11 +115,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pokechat", "Pokechat\Pokech
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Disc District", "Disc District\Disc District.csproj", "{F0CA920D-F984-4279-8DEE-4D8875A1ED98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptographer's Conundrum", "Cryptographer's Conundrum\Cryptographer's Conundrum.csproj", "{70863013-B516-4B78-9902-827CF3885ED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cryptographer's Conundrum", "Cryptographer's Conundrum\Cryptographer's Conundrum.csproj", "{70863013-B516-4B78-9902-827CF3885ED7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planina", "Planina\Planina.csproj", "{394625E2-7110-4BDF-BAA2-2C4F13445DC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Planina", "Planina\Planina.csproj", "{394625E2-7110-4BDF-BAA2-2C4F13445DC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pet", "Pet\Pet.csproj", "{E215960F-6F5F-4E04-B4BF-E14FADD05C85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pet", "Pet\Pet.csproj", "{E215960F-6F5F-4E04-B4BF-E14FADD05C85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nasty Hacks", "Nasty Hacks\Nasty Hacks.csproj", "{D5B6376F-1144-4FDE-AE1C-C1B977A006F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -363,6 +365,10 @@ Global
 		{E215960F-6F5F-4E04-B4BF-E14FADD05C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E215960F-6F5F-4E04-B4BF-E14FADD05C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E215960F-6F5F-4E04-B4BF-E14FADD05C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B6376F-1144-4FDE-AE1C-C1B977A006F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B6376F-1144-4FDE-AE1C-C1B977A006F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B6376F-1144-4FDE-AE1C-C1B977A006F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B6376F-1144-4FDE-AE1C-C1B977A006F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
