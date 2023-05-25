@@ -127,6 +127,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic Trick", "Magic Trick\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Last Factorial Digit", "Last Factorial Digit\Last Factorial Digit.csproj", "{0EA8BE7E-F18D-4293-8AEF-FBDD18E4132E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Above Average", "Above Average\Above Average.csproj", "{9C23DE30-5BDF-4103-B4C9-575A865ADA69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -381,6 +383,10 @@ Global
 		{0EA8BE7E-F18D-4293-8AEF-FBDD18E4132E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EA8BE7E-F18D-4293-8AEF-FBDD18E4132E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EA8BE7E-F18D-4293-8AEF-FBDD18E4132E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C23DE30-5BDF-4103-B4C9-575A865ADA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C23DE30-5BDF-4103-B4C9-575A865ADA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C23DE30-5BDF-4103-B4C9-575A865ADA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C23DE30-5BDF-4103-B4C9-575A865ADA69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
