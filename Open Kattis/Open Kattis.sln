@@ -121,13 +121,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Planina", "Planina\Planina.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pet", "Pet\Pet.csproj", "{E215960F-6F5F-4E04-B4BF-E14FADD05C85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nasty Hacks", "Nasty Hacks\Nasty Hacks.csproj", "{D5B6376F-1144-4FDE-AE1C-C1B977A006F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nasty Hacks", "Nasty Hacks\Nasty Hacks.csproj", "{D5B6376F-1144-4FDE-AE1C-C1B977A006F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic Trick", "Magic Trick\Magic Trick.csproj", "{7C30CB60-0835-4ED0-AA4F-3D981E4BA174}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Magic Trick", "Magic Trick\Magic Trick.csproj", "{7C30CB60-0835-4ED0-AA4F-3D981E4BA174}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Last Factorial Digit", "Last Factorial Digit\Last Factorial Digit.csproj", "{0EA8BE7E-F18D-4293-8AEF-FBDD18E4132E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Last Factorial Digit", "Last Factorial Digit\Last Factorial Digit.csproj", "{0EA8BE7E-F18D-4293-8AEF-FBDD18E4132E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Above Average", "Above Average\Above Average.csproj", "{9C23DE30-5BDF-4103-B4C9-575A865ADA69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Above Average", "Above Average\Above Average.csproj", "{9C23DE30-5BDF-4103-B4C9-575A865ADA69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haughty Cuisine", "Haughty Cuisine\Haughty Cuisine.csproj", "{D90BF9B3-D010-4A6F-BB4C-C33F07A7E7E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -387,6 +389,10 @@ Global
 		{9C23DE30-5BDF-4103-B4C9-575A865ADA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C23DE30-5BDF-4103-B4C9-575A865ADA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C23DE30-5BDF-4103-B4C9-575A865ADA69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90BF9B3-D010-4A6F-BB4C-C33F07A7E7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90BF9B3-D010-4A6F-BB4C-C33F07A7E7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90BF9B3-D010-4A6F-BB4C-C33F07A7E7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90BF9B3-D010-4A6F-BB4C-C33F07A7E7E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
