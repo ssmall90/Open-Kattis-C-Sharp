@@ -131,6 +131,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Above Average", "Above Aver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haughty Cuisine", "Haughty Cuisine\Haughty Cuisine.csproj", "{D90BF9B3-D010-4A6F-BB4C-C33F07A7E7E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Howl", "Howl\Howl.csproj", "{573DFFE6-42A8-44EF-9F43-A5FA26429A73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -393,6 +395,10 @@ Global
 		{D90BF9B3-D010-4A6F-BB4C-C33F07A7E7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D90BF9B3-D010-4A6F-BB4C-C33F07A7E7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D90BF9B3-D010-4A6F-BB4C-C33F07A7E7E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573DFFE6-42A8-44EF-9F43-A5FA26429A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573DFFE6-42A8-44EF-9F43-A5FA26429A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573DFFE6-42A8-44EF-9F43-A5FA26429A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573DFFE6-42A8-44EF-9F43-A5FA26429A73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
