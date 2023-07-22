@@ -137,6 +137,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hangman", "Hangman\Hangman.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No Duplicates", "No Duplicates\No Duplicates.csproj", "{A1DA4DE5-1F56-4120-8788-A4AC87F3726D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apaxiaaaaaaaaaaaans!", "Apaxiaaaaaaaaaaaans!\Apaxiaaaaaaaaaaaans!.csproj", "{D2B2AA5E-D3EE-4B26-811B-74F83431F374}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -411,6 +413,10 @@ Global
 		{A1DA4DE5-1F56-4120-8788-A4AC87F3726D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1DA4DE5-1F56-4120-8788-A4AC87F3726D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1DA4DE5-1F56-4120-8788-A4AC87F3726D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B2AA5E-D3EE-4B26-811B-74F83431F374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B2AA5E-D3EE-4B26-811B-74F83431F374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B2AA5E-D3EE-4B26-811B-74F83431F374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B2AA5E-D3EE-4B26-811B-74F83431F374}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
