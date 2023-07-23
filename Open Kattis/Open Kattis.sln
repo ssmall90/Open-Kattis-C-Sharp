@@ -135,9 +135,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Howl", "Howl\Howl.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hangman", "Hangman\Hangman.csproj", "{CEEEDA8C-5046-421D-99AA-2D5B27868989}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No Duplicates", "No Duplicates\No Duplicates.csproj", "{A1DA4DE5-1F56-4120-8788-A4AC87F3726D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "No Duplicates", "No Duplicates\No Duplicates.csproj", "{A1DA4DE5-1F56-4120-8788-A4AC87F3726D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apaxiaaaaaaaaaaaans!", "Apaxiaaaaaaaaaaaans!\Apaxiaaaaaaaaaaaans!.csproj", "{D2B2AA5E-D3EE-4B26-811B-74F83431F374}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apaxiaaaaaaaaaaaans!", "Apaxiaaaaaaaaaaaans!\Apaxiaaaaaaaaaaaans!.csproj", "{D2B2AA5E-D3EE-4B26-811B-74F83431F374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kemija", "Kemija\Kemija.csproj", "{E91FF8AB-5797-4A07-99A9-24587A802A77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -417,6 +419,10 @@ Global
 		{D2B2AA5E-D3EE-4B26-811B-74F83431F374}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2B2AA5E-D3EE-4B26-811B-74F83431F374}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2B2AA5E-D3EE-4B26-811B-74F83431F374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E91FF8AB-5797-4A07-99A9-24587A802A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91FF8AB-5797-4A07-99A9-24587A802A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91FF8AB-5797-4A07-99A9-24587A802A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91FF8AB-5797-4A07-99A9-24587A802A77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
