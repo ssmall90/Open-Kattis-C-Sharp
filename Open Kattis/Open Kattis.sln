@@ -5,8 +5,6 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello World", "Hello World\Hello World.csproj", "{06844BF0-3EA1-4F91-A623-D1F19839029D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "99 Problems", "99 Problems\99 Problems.csproj", "{D6E7FAAA-8CCF-43DA-AB09-6CCC5D2C5EDB}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R2", "R2\R2.csproj", "{94D4FF7F-5A5F-41F5-9220-A2B66F984092}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jack-O'-Lantern Juxtaposition", "Jack-O'-Lantern Juxtaposition\Jack-O'-Lantern Juxtaposition.csproj", "{75D1FF2A-BCFD-45FB-9450-1F884A4FC0C1}"
@@ -155,10 +153,6 @@ Global
 		{06844BF0-3EA1-4F91-A623-D1F19839029D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06844BF0-3EA1-4F91-A623-D1F19839029D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06844BF0-3EA1-4F91-A623-D1F19839029D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D6E7FAAA-8CCF-43DA-AB09-6CCC5D2C5EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D6E7FAAA-8CCF-43DA-AB09-6CCC5D2C5EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D6E7FAAA-8CCF-43DA-AB09-6CCC5D2C5EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D6E7FAAA-8CCF-43DA-AB09-6CCC5D2C5EDB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{94D4FF7F-5A5F-41F5-9220-A2B66F984092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{94D4FF7F-5A5F-41F5-9220-A2B66F984092}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94D4FF7F-5A5F-41F5-9220-A2B66F984092}.Release|Any CPU.ActiveCfg = Release|Any CPU
