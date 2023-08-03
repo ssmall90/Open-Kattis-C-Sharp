@@ -141,7 +141,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apaxiaaaaaaaaaaaans!", "Apa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kemija", "Kemija\Kemija.csproj", "{E91FF8AB-5797-4A07-99A9-24587A802A77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Job Expenses", "Job Expenses\Job Expenses.csproj", "{5569772C-04FB-4B48-8437-0DA1D8D8AF6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Job Expenses", "Job Expenses\Job Expenses.csproj", "{5569772C-04FB-4B48-8437-0DA1D8D8AF6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Printed Statues", "3D Printed Statues\3D Printed Statues.csproj", "{79667F9F-283F-46F5-8E86-DF76133641EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -429,6 +431,10 @@ Global
 		{5569772C-04FB-4B48-8437-0DA1D8D8AF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5569772C-04FB-4B48-8437-0DA1D8D8AF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5569772C-04FB-4B48-8437-0DA1D8D8AF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79667F9F-283F-46F5-8E86-DF76133641EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79667F9F-283F-46F5-8E86-DF76133641EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79667F9F-283F-46F5-8E86-DF76133641EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79667F9F-283F-46F5-8E86-DF76133641EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
