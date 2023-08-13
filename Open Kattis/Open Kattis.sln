@@ -143,7 +143,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Job Expenses", "Job Expense
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3D Printed Statues", "3D Printed Statues\3D Printed Statues.csproj", "{79667F9F-283F-46F5-8E86-DF76133641EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoom", "Zoom\Zoom.csproj", "{D26B0776-50CC-4109-B1BC-1B03FBD56B7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoom", "Zoom\Zoom.csproj", "{D26B0776-50CC-4109-B1BC-1B03FBD56B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Addition", "Simple Addition\Simple Addition.csproj", "{73BE5CA3-5D32-492C-A35F-2B8D21DF19FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -435,6 +437,10 @@ Global
 		{D26B0776-50CC-4109-B1BC-1B03FBD56B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D26B0776-50CC-4109-B1BC-1B03FBD56B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D26B0776-50CC-4109-B1BC-1B03FBD56B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BE5CA3-5D32-492C-A35F-2B8D21DF19FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BE5CA3-5D32-492C-A35F-2B8D21DF19FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BE5CA3-5D32-492C-A35F-2B8D21DF19FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BE5CA3-5D32-492C-A35F-2B8D21DF19FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
