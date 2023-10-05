@@ -145,7 +145,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3D Printed Statues", "3D Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoom", "Zoom\Zoom.csproj", "{D26B0776-50CC-4109-B1BC-1B03FBD56B7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Addition", "Simple Addition\Simple Addition.csproj", "{73BE5CA3-5D32-492C-A35F-2B8D21DF19FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Addition", "Simple Addition\Simple Addition.csproj", "{73BE5CA3-5D32-492C-A35F-2B8D21DF19FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oktalni", "Oktalni\Oktalni.csproj", "{BAC27CDD-1574-465A-9234-0A4DBDD03E09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -441,6 +443,10 @@ Global
 		{73BE5CA3-5D32-492C-A35F-2B8D21DF19FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73BE5CA3-5D32-492C-A35F-2B8D21DF19FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73BE5CA3-5D32-492C-A35F-2B8D21DF19FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC27CDD-1574-465A-9234-0A4DBDD03E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC27CDD-1574-465A-9234-0A4DBDD03E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC27CDD-1574-465A-9234-0A4DBDD03E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC27CDD-1574-465A-9234-0A4DBDD03E09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
