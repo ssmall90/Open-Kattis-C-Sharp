@@ -151,6 +151,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oktalni", "Oktalni\Oktalni.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eye of Sauron", "Eye of Sauron\Eye of Sauron.csproj", "{40879280-B9A4-4AEF-A9C1-A1CFEB4D26C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mars Window", "Mars Window\Mars Window.csproj", "{0A45CE46-1BD4-437F-B461-6823EF6B65CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -453,6 +455,10 @@ Global
 		{40879280-B9A4-4AEF-A9C1-A1CFEB4D26C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40879280-B9A4-4AEF-A9C1-A1CFEB4D26C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40879280-B9A4-4AEF-A9C1-A1CFEB4D26C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A45CE46-1BD4-437F-B461-6823EF6B65CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A45CE46-1BD4-437F-B461-6823EF6B65CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A45CE46-1BD4-437F-B461-6823EF6B65CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A45CE46-1BD4-437F-B461-6823EF6B65CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
