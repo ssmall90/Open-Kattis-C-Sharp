@@ -155,13 +155,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mars Window", "Mars Window\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Janitor Troubles", "Janitor Troubles\Janitor Troubles.csproj", "{C0174467-C24D-4D81-89B1-C2E1FAF8D45E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Velkomin", "Velkomin\Velkomin.csproj", "{64E082A6-EAB5-400F-A3A9-D636A1286399}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Velkomin", "Velkomin\Velkomin.csproj", "{64E082A6-EAB5-400F-A3A9-D636A1286399}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leggja Saman", "Leggja saman\Leggja Saman.csproj", "{A88795F6-BB4F-4112-B713-F656C15B417E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leggja Saman", "Leggja saman\Leggja Saman.csproj", "{A88795F6-BB4F-4112-B713-F656C15B417E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amerískur Vinnustaður", "Amerískur Vinnustaður\Amerískur Vinnustaður.csproj", "{C4E967A1-8B96-4474-B6BD-9693D942C236}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Amerískur Vinnustaður", "Amerískur Vinnustaður\Amerískur Vinnustaður.csproj", "{C4E967A1-8B96-4474-B6BD-9693D942C236}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo", "Modulo\Modulo.csproj", "{72918995-2763-4CD6-B8F4-EBDA83036322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo", "Modulo\Modulo.csproj", "{72918995-2763-4CD6-B8F4-EBDA83036322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skocimis", "Skocimis\Skocimis.csproj", "{7CA3064A-C0B2-4FDD-A1BE-C4ABC691EDCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -489,6 +491,10 @@ Global
 		{72918995-2763-4CD6-B8F4-EBDA83036322}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72918995-2763-4CD6-B8F4-EBDA83036322}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72918995-2763-4CD6-B8F4-EBDA83036322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA3064A-C0B2-4FDD-A1BE-C4ABC691EDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA3064A-C0B2-4FDD-A1BE-C4ABC691EDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA3064A-C0B2-4FDD-A1BE-C4ABC691EDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA3064A-C0B2-4FDD-A1BE-C4ABC691EDCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
