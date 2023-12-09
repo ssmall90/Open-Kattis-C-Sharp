@@ -165,6 +165,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo", "Modulo\Modulo.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skocimis", "Skocimis\Skocimis.csproj", "{7CA3064A-C0B2-4FDD-A1BE-C4ABC691EDCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seven Wonders", "Seven Wonders\Seven Wonders.csproj", "{9C7A5336-D3DB-4DE9-AE43-D09F72E01383}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -495,6 +497,10 @@ Global
 		{7CA3064A-C0B2-4FDD-A1BE-C4ABC691EDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CA3064A-C0B2-4FDD-A1BE-C4ABC691EDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CA3064A-C0B2-4FDD-A1BE-C4ABC691EDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7A5336-D3DB-4DE9-AE43-D09F72E01383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7A5336-D3DB-4DE9-AE43-D09F72E01383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7A5336-D3DB-4DE9-AE43-D09F72E01383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7A5336-D3DB-4DE9-AE43-D09F72E01383}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
