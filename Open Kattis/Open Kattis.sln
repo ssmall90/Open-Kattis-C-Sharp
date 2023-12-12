@@ -163,13 +163,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Amerískur Vinnustaður", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo", "Modulo\Modulo.csproj", "{72918995-2763-4CD6-B8F4-EBDA83036322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skocimis", "Skocimis\Skocimis.csproj", "{7CA3064A-C0B2-4FDD-A1BE-C4ABC691EDCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skocimis", "Skocimis\Skocimis.csproj", "{7CA3064A-C0B2-4FDD-A1BE-C4ABC691EDCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seven Wonders", "Seven Wonders\Seven Wonders.csproj", "{9C7A5336-D3DB-4DE9-AE43-D09F72E01383}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seven Wonders", "Seven Wonders\Seven Wonders.csproj", "{9C7A5336-D3DB-4DE9-AE43-D09F72E01383}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cetiri", "Cetiri\Cetiri.csproj", "{F66C0D1C-5ED2-4ACD-9F77-55F81747B2C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cetiri", "Cetiri\Cetiri.csproj", "{F66C0D1C-5ED2-4ACD-9F77-55F81747B2C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peragrams", "Peragrams\Peragrams.csproj", "{9D380F44-586E-4ABA-91E5-8F3D2A27AB51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Peragrams", "Peragrams\Peragrams.csproj", "{9D380F44-586E-4ABA-91E5-8F3D2A27AB51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Free Food", "Free Food\Free Food.csproj", "{483D5488-7740-446F-BE2C-BBB6EA48DEB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -513,6 +515,10 @@ Global
 		{9D380F44-586E-4ABA-91E5-8F3D2A27AB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D380F44-586E-4ABA-91E5-8F3D2A27AB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D380F44-586E-4ABA-91E5-8F3D2A27AB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483D5488-7740-446F-BE2C-BBB6EA48DEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483D5488-7740-446F-BE2C-BBB6EA48DEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483D5488-7740-446F-BE2C-BBB6EA48DEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483D5488-7740-446F-BE2C-BBB6EA48DEB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
