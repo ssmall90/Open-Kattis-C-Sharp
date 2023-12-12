@@ -173,6 +173,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Peragrams", "Peragrams\Pera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Free Food", "Free Food\Free Food.csproj", "{483D5488-7740-446F-BE2C-BBB6EA48DEB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simon Says", "Simon Says\Simon Says.csproj", "{E313D083-BF5C-45F4-9228-C2AB3EF58CBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -519,6 +521,10 @@ Global
 		{483D5488-7740-446F-BE2C-BBB6EA48DEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{483D5488-7740-446F-BE2C-BBB6EA48DEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{483D5488-7740-446F-BE2C-BBB6EA48DEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E313D083-BF5C-45F4-9228-C2AB3EF58CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E313D083-BF5C-45F4-9228-C2AB3EF58CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E313D083-BF5C-45F4-9228-C2AB3EF58CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E313D083-BF5C-45F4-9228-C2AB3EF58CBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
